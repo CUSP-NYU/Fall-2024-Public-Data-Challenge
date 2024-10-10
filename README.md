@@ -19,7 +19,7 @@ This overview contains the following information:
     - [International Center for Community Land Trusts](#international-center-for-community-land-trusts)
     - [New York State Office of Parks, Recreation and Historic Preservation](#new-york-state-office-of-parks-recreation-and-historic-preservation)
     - [The Municipal Art Society](#the-municipal-art-society)
-    - [Town+Gown:NYC at the NYC Department of Design and Construction](#town+gownnyc-at-the-nyc-department-of-design-and-construction)
+    - [Town+Gown:NYC at the NYC Department of Design and Construction](#town-gown-nyc-at-the-nyc-department-of-design-and-construction)
 
 
 ## Event Details
