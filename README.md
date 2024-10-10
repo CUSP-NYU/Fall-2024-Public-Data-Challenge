@@ -19,7 +19,7 @@ This overview contains the following information:
     - [International Center for Community Land Trusts](#international-center-for-community-land-trusts)
     - [New York State Office of Parks, Recreation and Historic Preservation](#new-york-state-office-of-parks-recreation-and-historic-preservation)
     - [The Municipal Art Society](#the-municipal-art-society)
-    - [Town+Gown:NYC at the NYC Department of Design and Construction](#town-gown-nyc-at-the-nyc-department-of-design-and-construction)
+    - [Town and Gown at the NYC Department of Design and Construction](#town-and-gown-at-the-nyc-department-of-design-and-construction)
 
 
 ## Event Details
@@ -157,7 +157,7 @@ This challenge will focus on architecting Version 1.0, as well as refining the r
 | Persons looking for examples of laws to help them draft new laws for their state or locality. This is particularly important for community land trusts in areas with few or no established laws.<br>Persons seeking information on existing laws applicable to their location, assisting with identifying funding sources, permitted legal practices, etc.<br>Students or faculty researching community land trusts. | Law school clinical faculty and students<br>Practicing attorneys<br>CLT practitioners (non-attorneys)<br>Local, county, and state policymakers/government staff |
 
 
-## Town+Gown:NYC at the NYC Department of Design and Construction
+## Town and Gown at the NYC Department of Design and Construction
 
 ### About Town+Gown:NYC
 Town+Gown:NYC @ NYC Department of Design and Construction [Town+Gown](https://www.nyc.gov/site/ddc/about/town-gown.page) is a city-wide research program in the Built Environment that develops and supports applied research projects, using NYC's built environment as a laboratory for the research and brings academics and practitioners together on research projects to support practice and policy change based on research results.
