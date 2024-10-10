@@ -1,5 +1,3 @@
-# Fall-2024-Public-Data-Challenge
-
 # CUSP Fall 2024 Public Data Challenge
 
 The Center for Urban Science + Progress (CUSP) at NYU Tandon is excited to host a Public Data Challenge on Saturday, October 19, 2024 for students in the M.S. in Applied Urban Science and Informatics program. Over the course of one day, students engage with datasets and navigate the complexities of real-world scenarios, transforming information into actionable insights. Students work alongside peers, faculty mentors, and project sponsors, creating lasting connections that extend far beyond the duration of the event.
