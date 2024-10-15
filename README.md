@@ -29,7 +29,7 @@ The Fall 2024 Public Data Challenge is open to currently enrolled students at NY
 
 ### Key Dates
 
-Thursday, October 17 at 9am
+Thursday, October 17 at 9am<br>
 Deadline for students to submit their project preferences and questions in advance to our partnering sponsors via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc-mY99Ay7cwGoYBxinZ67NaqY7Nwr6jVIsob-s63QHZFP-kw/viewform). Answers will be published on the Public Data Challenge Repository on Github as they are made available, no later than Saturday, October 19.
 
 Saturday, October 19<br>
