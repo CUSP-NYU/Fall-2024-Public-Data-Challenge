@@ -29,13 +29,13 @@ The Fall 2024 Public Data Challenge is open to students in CUSP’s M.S. in Appl
 
 ### Key Dates
 
-Wednesday, October 16 at noon
+Wednesday, October 16 at noon<br>
 Deadline for students to submit questions in advance to our partnering sponsors via this Google Form. Answers will be published on the Public Data Challenge Repository on Github as they are made available, no later than Saturday, October 19 before the challenge.
 
-Saturday, October 19
+Saturday, October 19<br>
 Date of the Fall 2024 Public Data Challenge at 370 Jay Street in the 12th Floor Seminar Room, from 11:00 AM to 6:00 PM. Lunch and snacks will be provided for all participants.
 
-Monday, October 28
+Monday, October 28<br>
 Feedback from project sponsors will be shared with the teams, and the projects with the highest scores based on the sponsors’ evaluations will be announced.
 
 
@@ -158,7 +158,7 @@ This challenge will focus on architecting Version 1.0, as well as refining the r
 ## Town and Gown at the NYC Department of Design and Construction
 
 ### About Town+Gown:NYC
-Town+Gown:NYC @ NYC Department of Design and Construction [Town+Gown](https://www.nyc.gov/site/ddc/about/town-gown.page) is a city-wide research program in the Built Environment that develops and supports applied research projects, using NYC's built environment as a laboratory for the research and brings academics and practitioners together on research projects to support practice and policy change based on research results.
+[Town+Gown](https://www.nyc.gov/site/ddc/about/town-gown.page):NYC @ NYC Department of Design and Construction is a city-wide research program in the Built Environment that develops and supports applied research projects, using NYC's built environment as a laboratory for the research and brings academics and practitioners together on research projects to support practice and policy change based on research results.
 
 T+G’s Utilidor Working Group [Town+Gown Working Groups](https://www.nyc.gov/site/ddc/about/town-gown-working-groups.page) has supported various analyses, including life cycle cost benefit analysis modeling of implementing utilidors (or multi-utility tunnels) and analysis and modeling to identify opportunities for implementing utilidors as one innovative subsurface design solution to support changes to current practice of direct burial of subsurface utility distribution infrastructure.
 
@@ -166,16 +166,16 @@ T+G’s Utilidor Working Group [Town+Gown Working Groups](https://www.nyc.gov/si
 ### Problem Statement 
 T+G’s Utilidor Working Group Town+Gown Working Groups (nyc.gov) has supported various analyses, including life cycle cost benefit analysis modeling of implementing utilidors (or multi-utility tunnels) and analysis and modeling to identify opportunities for implementing utilidors as one innovative subsurface design solution to support changes to current practice of direct burial of subsurface utility distribution infrastructure.
 
-Capital projects to repair and/or upgrade public and private utility aging subsurface distribution infrastructure, known as state of good repair (SOGR) projects, compete with other utility capital needs.  They are also buried under the street requiring excavation to conduct SOGR activities, which make SOGR expensive and thus done less than at optimal levels. Traditional key performance indicators (KPIs) for aging subsurface infrastructure lead to practices that extend their useful lives within targeted maximum failure rates.
+Capital projects to repair and/or upgrade public and private utility aging subsurface distribution infrastructure, known as state of good repair (SOGR) projects, compete with other utility capital needs. They are also buried under the street requiring excavation to conduct SOGR activities, which make SOGR expensive and thus done less than at optimal levels. Traditional key performance indicators (KPIs) for aging subsurface infrastructure lead to practices that extend their useful lives within targeted maximum failure rates.
 
-This infrastructure includes electricity, gas, steam, telecommunications, water and sewer distribution pipes.  It is vulnerable to aging, extreme weather and climate change. Aging distribution infrastructure is a hazard like natural and manmade hazards but is not included in hazard analysis. Traditional KPIs lead to institutional practices to extend assets’ useful lives within targeted maximum failure rates, which expect infrastructure failures and do not include consideration of the impacts on communities where failures occur.  
+This infrastructure includes electricity, gas, steam, telecommunications, water and sewer distribution pipes. It is vulnerable to aging, extreme weather and climate change. Aging distribution infrastructure is a hazard like natural and manmade hazards but is not included in hazard analysis. Traditional KPIs lead to institutional practices to extend assets’ useful lives within targeted maximum failure rates, which expect infrastructure failures and do not include consideration of the impacts on communities where failures occur.  
 
-There is little reliable subsurface asset locational and condition data at the utilities, much less publicly available.  Surface data observations, however, can suggest subsurface infrastructure vulnerability from aging subsurface infrastructure and has, in smaller research projects demonstrating proof of concepts, been deployed via mapping tools to analyze subsurface vulnerabilities as well as to analyze the impacts of failures in the neighborhoods they occur.  This project would expand on all prior smaller projects and apply them to create a city-wide mapping analysis tool to suggest areas of interest for potential utilidor implementation and assess the impact of failures in communities.
+There is little reliable subsurface asset locational and condition data at the utilities, much less publicly available. Surface data observations, however, can suggest subsurface infrastructure vulnerability from aging subsurface infrastructure and has, in smaller research projects demonstrating proof of concepts, been deployed via mapping tools to analyze subsurface vulnerabilities as well as to analyze the impacts of failures in the neighborhoods they occur.  This project would expand on all prior smaller projects and apply them to create a city-wide mapping analysis tool to suggest areas of interest for potential utilidor implementation and assess the impact of failures in communities.
 
 
 ### Data Overview and Challenge Goal with Desired Outcomes
 
-Publicly available surface data can suggest subsurface infrastructure vulnerability and, with other data, permit assessment of community impacts of failures.  A city-wide analytical model with data visualization features would enable the city to plan for future subsurface use and bring the community impact from failures into related policies and practices.
+Publicly available surface data can suggest subsurface infrastructure vulnerability and, with other data, permit assessment of community impacts of failures. A city-wide analytical model with data visualization features would enable the city to plan for future subsurface use and bring the community impact from failures into related policies and practices.
 
 This challenge will help determine whether city-wide scale surface and other data can be used in the absence of available subsurface infrastructure location and condition data to help the city develop policies and practices for better subsurface use planning and to bring the impacts in communities from failures into the policy and practice development?
 
