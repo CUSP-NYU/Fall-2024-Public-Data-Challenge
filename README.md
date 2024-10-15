@@ -24,13 +24,13 @@ This overview contains the following information:
 
 ### Eligibility
 
-The Fall 2024 Public Data Challenge is open to students in CUSP’s M.S. in Applied Urban Science and Informatics program. 
+The Fall 2024 Public Data Challenge is open to currently enrolled students at NYU, with priority given to students in CUSP’s M.S. in Applied Urban Science and Informatics program. Advance registration via [Eventbrite](https://www.eventbrite.com/e/fall-2024-cusp-public-data-challenge-tickets-1027971128317?aff=oddtdtcreator) is required for all student participants, so we can organize groups and arrange catering for the event.
 
 
 ### Key Dates
 
-Wednesday, October 16 at noon<br>
-Deadline for students to submit questions in advance to our partnering sponsors via this Google Form. Answers will be published on the Public Data Challenge Repository on Github as they are made available, no later than Saturday, October 19 before the challenge.
+Thursday, October 17 at 9am
+Deadline for students to submit their project preferences and questions in advance to our partnering sponsors via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc-mY99Ay7cwGoYBxinZ67NaqY7Nwr6jVIsob-s63QHZFP-kw/viewform). Answers will be published on the Public Data Challenge Repository on Github as they are made available, no later than Saturday, October 19.
 
 Saturday, October 19<br>
 Date of the Fall 2024 Public Data Challenge at 370 Jay Street in the 12th Floor Seminar Room, from 11:00 AM to 6:00 PM. Lunch and snacks will be provided for all participants.
